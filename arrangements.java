@@ -19,7 +19,7 @@ class arrangements
 
     public static void main(String[] args)
     {
-        String str = "123";
+        String str = "abc";
 
         System.out.println(solve(str, 0, ""));
     }
